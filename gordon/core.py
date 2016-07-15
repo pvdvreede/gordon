@@ -28,6 +28,7 @@ AWS_LAMBDA_REGIONS = (
     'ap-northeast-1',
     'us-east-1',
     'us-west-2',
+    'ap-southeast-2',
 )
 
 AVAILABLE_RESOURCES = {
